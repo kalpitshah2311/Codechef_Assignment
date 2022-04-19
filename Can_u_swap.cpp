@@ -1,3 +1,21 @@
+
+/*
+Given a string of length N, find if we can make the string sorted by performing at most one swap. A swap
+involves taking any two characters presentin the string and interchanging their positions in the string.
+A string is sorted if all letter 'a' appear before all letter 'b', all letter 'b' appear before all letter 'c' and so on.
+
+Input
+2
+4
+acbd
+4
+adbc
+
+Output
+YES
+NO
+
+*/
 #include<bits/stdc++.h>
 using namespace std;
 
